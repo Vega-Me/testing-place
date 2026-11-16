@@ -1,0 +1,103 @@
+{
+  "name": "game1",
+  "tree": {
+    "$className": "DataModel",
+    "Lighting": {
+      "$ignoreUnknownInstances": true,
+      "$path": "src/Lighting",
+      "$properties": {
+        "Ambient": {
+          "Color3": [
+            0.27450981736183167,
+            0.27450981736183167,
+            0.27450981736183167
+          ]
+        },
+        "Brightness": 3,
+        "EnvironmentDiffuseScale": 1,
+        "EnvironmentSpecularScale": 1,
+        "FogColor": {
+          "Color3": [
+            0.7529412508010864,
+            0.7529412508010864,
+            0.7529412508010864
+          ]
+        },
+        "GeographicLatitude": 0,
+        "GlobalShadows": true,
+        "OutdoorAmbient": {
+          "Color3": [
+            0.27450981736183167,
+            0.27450981736183167,
+            0.27450981736183167
+          ]
+        },
+        "Outlines": false,
+        "PrioritizeLightingQuality": true,
+        "ShadowSoftness": 0.20000000298023224,
+        "TimeOfDay": "14:30:00"
+      }
+    },
+    "MaterialService": {
+      "$ignoreUnknownInstances": true,
+      "$path": "src/MaterialService"
+    },
+    "ReplicatedFirst": {
+      "$path": "src/ReplicatedFirst"
+    },
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+    "SoundService": {
+      "$ignoreUnknownInstances": true,
+      "$path": "src/SoundService",
+      "$properties": {
+        "DefaultListenerLocation": {
+          "Enum": 3
+        },
+        "RespectFilteringEnabled": true
+      }
+    },
+    "StarterGui": {
+      "$path": "src/StarterGui",
+      "$properties": {
+        "ScreenOrientation": {
+          "Enum": 4
+        }
+      }
+    },
+    "StarterPack": {
+      "$path": "src/StarterPack"
+    },
+    "StarterPlayer": {
+      "$path": "src/StarterPlayer",
+      "$properties": {
+        "CameraMaxZoomDistance": 128,
+        "CharacterBreakJointsOnDeath": false,
+        "CharacterUseJumpPower": false
+      }
+    },
+    "Teams": {
+      "$path": "src/Teams"
+    },
+    "Workspace": {
+      "$ignoreUnknownInstances": true,
+      "$path": "src/Workspace",
+      "$properties": {
+        "LevelOfDetail": {
+          "Enum": 0
+        },
+        "ModelStreamingMode": {
+          "Enum": 0
+        },
+        "StreamingEnabled": true
+      }
+    }
+  }
+}

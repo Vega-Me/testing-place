@@ -22,4 +22,4 @@
 - FigCraft (desktop app) has no MCP/API; use exported images/SVGs from it instead.
 
 ## Status / next steps
-- [ ] Save the open Studio place as `game1/place.rbxl` (or via Studio MCP `save_place`), then run the unpacker and make the first commit.
+- [x] Place "not trying hard" (placeId 88773357885420) pulled into place.rbxl + src/ (2026-11-15). Re-download via Studio File → Download a Copy.
