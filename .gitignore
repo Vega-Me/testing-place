@@ -1,0 +1,8 @@
+# Rojo build outputs / Studio lock files
+/build/
+*.rbxl.lock
+*.rbxlx.lock
+sourcemap.json
+.DS_Store
+# Blender autosaves
+*.blend1
